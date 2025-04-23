@@ -16,8 +16,8 @@ Este script em **Bash** foi criado para automatizar a instalação do servidor w
 Você pode executar esse script em um servidor ou máquina virtual Linux da seguinte forma:
 
 ```bash
-chmod +x nome-do-arquivo.sh
-sudo ./nome-do-arquivo.sh
+chmod +x apache.sh
+sudo ./apache.sh
 ```
 
 > **Importante:** Esse script deve ser executado com permissões de superusuário (`sudo`), já que ele instala pacotes e altera pastas do sistema.
